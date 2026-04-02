@@ -17,6 +17,8 @@ endif()
 
 # Main executable
 add_executable(${PROJECT_NAME} main.cpp)
+add_executable(${PROJECT_NAME} cfr.cpp)
+add_executable(${PROJECT_NAME} cfr.h)
 
 if(GITHUB_ACTIONS)
     message("NOTE: GITHUB_ACTIONS defined")
