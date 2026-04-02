@@ -6,9 +6,7 @@ Pentru a cumpara un bilet se introduc statia de pornire si cea de sosire, si apl
 in functie de trenurile valabile.
 Meniul permite vizualizarea biletelor cumparate si a retelei de trenuri, si actualizarea si stergerea rutelor.
 
-
 Sunt valabile 3 tipuri de vagoane (clasa 1, clasa 2, cuseta) si 4 tipuri de bilet (intreg, tineret, pensionar, CFR+ membership).
-
 
 Pentru a stabili ruta propusa am implementat un graf neorientat pe care aplic o variatiune a algoritmului Breadth First Search.
 Biletele sunt structurate in functie de cate schimbari este nevoie pentru a ajunge la destinatie: pentru fiecare ruta care trebuie folosita este salvata cate o 'calatorie' care contine date relevante acelui tren.
@@ -17,7 +15,9 @@ Biletele sunt structurate in functie de cate schimbari este nevoie pentru a ajun
 Am atasat si intregul meu proiect, impreuna cu makefile-ul pe care l-am folosit pentru a compila scripturile.
 
 
-Precizari si Limitari:
+
+
+# Precizari si Limitari:
 
 * voi reveni cu o optiune de a preseta reteaua de trenuri din meniu
 
