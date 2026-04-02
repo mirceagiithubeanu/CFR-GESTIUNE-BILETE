@@ -27,5 +27,6 @@ Precizari si Limitari:
 
 -pe viitor as dori sa implementez o interfata grafica, introducerea rapida a datelor in sistem folosind fisiere json, si un algoritm mai complex folosind Djisktra's algorithm!
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2a727533-3d9e-4247-82c4-6fb05c2bda87" />
+<img width="400" height="400" alt="image" src="<img width="334" height="334" alt="image" src="https://github.com/user-attachments/assets/bf576c1c-b588-4cc9-acae-8cb74524cc3b" />
+" />
 
