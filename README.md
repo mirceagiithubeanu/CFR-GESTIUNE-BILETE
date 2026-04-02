@@ -14,6 +14,8 @@ Pentru a stabili ruta propusa am implementat un graf neorientat pe care aplic o 
 Biletele sunt structurate in functie de cate schimbari este nevoie pentru a ajunge la destinatie: pentru fiecare ruta care trebuie folosita este salvata cate o 'calatorie' care contine date relevante acelui tren.
 
 
+Am atasat si intregul meu proiect, impreuna cu makefile-ul pe care l-am folosit pentru a compila scripturile.
+
 
 Precizari si Limitari:
 
