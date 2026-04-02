@@ -1,13 +1,13 @@
 APLICATIE BILETE CFR
 
-Prin aplicatia mea, utilizatorii pot cumpara bilete de calatorie printr-o retea de trenuri, formata din rute si trenurile propriu-zise.
+Prin aplicatia mea, utilizatorii pot cumpara bilete de calatorie dintr-o retea de trenuri, formata din rute si trenurile propriu-zise.
 Utilizatorul introduce rutele dorite, trenurile care le populeaza, orele de la care pleaca, vagoanele care sunt alcatuite.
 Pentru a cumpara un bilet se introduc statia de pornire si cea de sosire, si aplicatia returneaza o ruta sugerata pentru a ajunge,
 in functie de trenurile valabile.
 Meniul permite vizualizarea biletelor cumparate si a retelei de trenuri, si actualizarea si stergerea rutelor.
 
 
-Sunt valabile 3 tipuri de vagoane(clasa 1, clasa 2, cuseta) si 4 tipuri de bilet(intreg, tineret, pensionar, CFR+ membership)
+Sunt valabile 3 tipuri de vagoane (clasa 1, clasa 2, cuseta) si 4 tipuri de bilet (intreg, tineret, pensionar, CFR+ membership).
 
 
 Pentru a stabili ruta propusa am implementat un graf neorientat pe care aplic o variatiune a algoritmului Breadth First Search.
