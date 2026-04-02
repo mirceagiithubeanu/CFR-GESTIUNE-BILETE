@@ -19,7 +19,7 @@ Precizari si Limitari:
 
 -voi reveni cu o optiune de a preseta reteaua de trenuri din meniu
 
--locurile sunt stabilite aleator din pacate!
+-locurile sunt stabilite aleatoriu din pacate!
 
 -orele de plecare trebuie introduse in minute relativ cu 00:00, si sunt la fel pentru ambele sensuri de mers ale trenului (din lipsa de timp, pot reveni pana luni)
 
