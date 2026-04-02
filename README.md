@@ -1,4 +1,4 @@
-### APLICATIE BILETE CFR
+# APLICATIE BILETE CFR
 
 Prin aplicatia mea, utilizatorii pot cumpara bilete de calatorie dintr-o retea de trenuri, formata din rute si trenurile propriu-zise.
 Utilizatorul introduce rutele dorite, trenurile care le populeaza, orele de la care pleaca, vagoanele care sunt alcatuite.
@@ -17,7 +17,7 @@ Am atasat si intregul meu proiect, impreuna cu makefile-ul pe care l-am folosit 
 
 
 
-# Precizari si Limitari:
+## Precizari si Limitari:
 
 * voi reveni cu o optiune de a preseta reteaua de trenuri din meniu
 
