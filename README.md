@@ -12,7 +12,7 @@ Pentru a stabili ruta propusa am implementat un graf neorientat pe care aplic o 
 Biletele sunt structurate in functie de cate schimbari este nevoie pentru a ajunge la destinatie: pentru fiecare ruta care trebuie folosita este salvata cate o 'calatorie' care contine date relevante acelui tren.
 
 
-Am atasat si cele trei fisiere componente ale proiectului. Dar și folderul original, pe care am makefile-ul folosit pentru a compila scripturile.
+Am atasat si cele trei fisiere componente ale proiectului, dar și folderul original, pe care am makefile-ul folosit pentru a compila scripturile.
 
 
 
