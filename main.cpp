@@ -1,6 +1,12 @@
-#include<iostream>
+#include "cfr.h"
+#include <string>
+#include <vector>
+#include <iostream>
 
-int main(){
-    std::cout<<"Hello world!";
+int main() {
+    
+    TicketManager* menu = TicketManager::getInstance();
+    menu->StartMenu();
+
     return 0;
 }
