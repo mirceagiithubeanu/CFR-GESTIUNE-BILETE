@@ -12,7 +12,12 @@ Pentru a stabili ruta propusa am implementat un graf neorientat pe care aplic o 
 Biletele sunt structurate in functie de cate schimbari este nevoie pentru a ajunge la destinatie: pentru fiecare ruta care trebuie folosita este salvata cate o 'calatorie' care contine date relevante acelui tren.
 
 Precizari si Limitari:
+-voi reveni cu o optiune de a preseta reteaua de trenuri din meniu
+
 -locurile sunt stabilite aleator din pacate!
+
 -orele de plecare trebuie introduse in minute relativ cu 00:00, si sunt la fel pentru ambele sensuri de mers ale trenului (din lipsa de timp, pot reveni pana luni)
+
 -algoritmul proiectat pentru stabilirea rutei propune o solutie eficienta din punct de vedere al distantei si al numarului de schimbari necesare, dar presupune o alegere convenabila a orelor de plecare pentru trenuri.
+
 -pe viitor as dori sa implementez o interfata grafica, introducerea rapida a datelor in sistem folosind fisiere json, si un algoritm mai complex folosind Djisktra's algorithm!
